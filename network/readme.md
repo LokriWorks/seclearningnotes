@@ -9,7 +9,7 @@
 | 内容 | 阅读入口 | 说明 |
 | --- | --- | --- |
 | 六章重点笔记 | [阅读笔记](notes/computer-network-notes.md) | 概述、物理层、数据链路层、网络层、传输层和应用层 |
-| 计算机网络实验 | [阅读实验报告](labs/README.md) | 网络命令、Packet Tracer、RIP 和 Wireshark 分析 |
+| 计算机网络实验 | [阅读实验报告](labs/实验报告.md) | 网络命令、Packet Tracer、RIP 和 Wireshark 分析 |
 | TCP Reno 课程设计 | [阅读设计报告](course-design/tcp-reno/REPORT.md) | 模型原理、状态转移、测试思路及核心代码说明 |
 
 ## 阅读说明
