@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+测试记录/
+截图/
+*.docx
+*.pdf
+*.zip
+~$*
