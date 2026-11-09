@@ -2,6 +2,8 @@
 
 这里记录我的计算机基础、安全入门练习和 CTF 复盘。我目前还在学习，笔记会随理解不断修订。
 
+维护者：[LokriWorks](https://github.com/LokriWorks)。
+
 ## 从这里开始
 
 - [计算机网络：六章重点、实验与 TCP Reno 课程设计](network/readme.md)
