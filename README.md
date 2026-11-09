@@ -4,6 +4,7 @@
 
 ## 从这里开始
 
+- [计算机网络：六章重点、实验与 TCP Reno 课程设计](network/readme.md)
 - [第七届信安大挑战：6 道 Misc 题解](practice/ctf/2026-dino-7th/misc-wp.md)
 - [Linux 第一天：常用命令](system/note01.md)
 - [Linux 第二天：文件与目录操作](system/note02.md)
@@ -13,7 +14,7 @@
 | 分类 | 内容 | 当前状态 |
 |---|---|---|
 | [系统基础](system/readme.md) | Linux / Windows 基础与系统学习记录 | 已有 2 篇 Linux 笔记 |
-| [计算机网络](network/readme.md) | 网络协议、抓包与分析 | 待补充 |
+| [计算机网络](network/readme.md) | 重点笔记、网络实验与 TCP Reno 课程设计 | 已有 3 份脱敏文档 |
 | [漏洞学习](vuln/readme.md) | 本地靶场中的漏洞复现与修复 | 待补充 |
 | [代码与脚本](code/readme.md) | 编程练习和自动化工具 | 待补充 |
 | [竞赛与实践](practice/readme.md) | CTF 题解、复现过程与学习总结 | 已有 1 份赛事复盘，包含 6 道题 |
