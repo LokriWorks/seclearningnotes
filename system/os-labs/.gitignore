@@ -1,0 +1,15 @@
+*.o
+*.i
+*.s
+*.log
+records/
+hello
+myapp
+fork_wait
+fork_exec
+scheduler
+rps_queue
+rps_pipe
+producer_consumer
+products.txt
+consumed.txt
